@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsApi", "WindowsApi\WindowsApi.csproj", "{931F3D8C-ACF2-4196-86E4-32B2A09AC970}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowLocationTest", "WindowLocationTest\WindowLocationTest.csproj", "{EF3CAA1E-21D0-47CD-A043-E703F295F165}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleIoc", "SimpleIoc\SimpleIoc.csproj", "{90B953B7-FEC9-41E7-AFD1-963AEA98A306}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitApiUtils", "RevitApiUtils\RevitApiUtils.csproj", "{39F38452-AC2E-411F-B24B-7D6FDFFB7908}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{931F3D8C-ACF2-4196-86E4-32B2A09AC970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931F3D8C-ACF2-4196-86E4-32B2A09AC970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{931F3D8C-ACF2-4196-86E4-32B2A09AC970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{931F3D8C-ACF2-4196-86E4-32B2A09AC970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF3CAA1E-21D0-47CD-A043-E703F295F165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF3CAA1E-21D0-47CD-A043-E703F295F165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF3CAA1E-21D0-47CD-A043-E703F295F165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF3CAA1E-21D0-47CD-A043-E703F295F165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90B953B7-FEC9-41E7-AFD1-963AEA98A306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90B953B7-FEC9-41E7-AFD1-963AEA98A306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90B953B7-FEC9-41E7-AFD1-963AEA98A306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90B953B7-FEC9-41E7-AFD1-963AEA98A306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39F38452-AC2E-411F-B24B-7D6FDFFB7908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F38452-AC2E-411F-B24B-7D6FDFFB7908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F38452-AC2E-411F-B24B-7D6FDFFB7908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F38452-AC2E-411F-B24B-7D6FDFFB7908}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
