@@ -1,0 +1,14 @@
+﻿<Window x:Class="SetParentTest.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SetParentTest"
+        mc:Ignorable="d"
+        BorderThickness="0"
+        Title="Window1" Height="55.365" Width="215.021" WindowStyle="None">
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="20,14,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>

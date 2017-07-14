@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleIoc", "SimpleIoc\Simp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitApiUtils", "RevitApiUtils\RevitApiUtils.csproj", "{39F38452-AC2E-411F-B24B-7D6FDFFB7908}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetParentTest", "SetParentTest\SetParentTest.csproj", "{6E84FAB4-ADA9-4367-978A-C4138AFF75AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitApiTest", "RevitApiTest\RevitApiTest.csproj", "{203CF934-30CF-4714-A529-15117D092E0E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{39F38452-AC2E-411F-B24B-7D6FDFFB7908}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39F38452-AC2E-411F-B24B-7D6FDFFB7908}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39F38452-AC2E-411F-B24B-7D6FDFFB7908}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E84FAB4-ADA9-4367-978A-C4138AFF75AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E84FAB4-ADA9-4367-978A-C4138AFF75AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E84FAB4-ADA9-4367-978A-C4138AFF75AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E84FAB4-ADA9-4367-978A-C4138AFF75AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{203CF934-30CF-4714-A529-15117D092E0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{203CF934-30CF-4714-A529-15117D092E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{203CF934-30CF-4714-A529-15117D092E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{203CF934-30CF-4714-A529-15117D092E0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
